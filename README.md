@@ -1,5 +1,5 @@
 # hello-world
-Repository demo/tutorial
+
 ===================================
 
 Here is a description of the program.
